@@ -1,0 +1,51 @@
+[Animal Ears]
+- Dog Ears
+- Bunny Ears
+- Elephant Ears
+- Alien Ears
+
+[Christmas Theme]
+- Winter Star Hat
+- Winter Tinsel Hat
+- Pillbox Hat
+
+[Winter Season] 
+- Pom Pom Hat [White]
+- Pom Pom Hat [Black]
+- Pom Pom Hat [Red]
+- Beanie Hat
+- Bowler Cloche Hat
+
+[Fruit]
+- Starberry Hat
+- Apple Hat
+- Watermelon Hat
+- Peach Hat
+
+[Hair Bows]
+- Red Bow
+- Blue Bow
+- Yellow Bow
+
+[Headphone Hats]
+- Cat Ears Headphones
+- Dog Ears Headphones
+- Bunny Ears Headphones
+- Elephant Ears Headphones
+- Alien Ears Headphones
+
+[Heart Headband Bows]
+- Red Heart
+- Pink Heart
+- Yellow Heart
+- Purple Heart
+
+[Flower Crowns]
+- Flower Crown A
+- Flower Crown B
+- Flower Crown C
+- Flower Crown D
+
+[Crown]
+- King Crown
+- Queen Crown
