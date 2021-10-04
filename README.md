@@ -1,5 +1,8 @@
 # CuteCustomHats
-Adds Cute Custom Hats to Stardew Valley - Uses Json assets
+- Adds Cute Custom Hats to Stardew Valley. 
+
+### [Mod Dependencies] 
+- Uses Json assets
 
 # Hat Types: 
 
