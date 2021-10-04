@@ -15,7 +15,11 @@
 - Pom Pom Hat [Gold]
 - Pom Pom Hat [Red]
 - Pom Pom Hat [Blue]
-- Beanie Hat
+
+
+[Hair Bows]
+- Red Bow Hat
+- Green Bow Hat
 - Bowler Cloche Hat
 
 [Fruit]
@@ -23,33 +27,15 @@
 - Apple Hat
 - Watermelon Hat
 - Peach Hat
-
-[Hair Bows]
-- Red Bow Hat
-- Blue Bow Hat
-- Yellow Bow Hat
+- Pinebannapple Hat
 
 [Headphone Hats]
 - Cat Ears Headphones Hat
-- Dog Ears Headphones Hat
-- Bunny Ears Headphones Hat
-- Elephant Ears Headphones Hat
-- Alien Ears Headphones Hat
-
-[Heart Headband Bows]
-- Red Heart Hat
-- Pink Heart Hat
-- Yellow Heart Hat
-- Purple Heart Hat
 
 [Flower Crowns]
-- Flower Crown A Hat
-- Flower Crown B Hat
-- Flower Crown C Hat
-- Flower Crown D Hat
+- Flower Crown Hat
+- Flower Crown Mixed Hat
 
 [Crown]
 - King Crown Hat
-- Queen Crown
-- Tiara Hat
-- Circlet Hat
+- Queen Crown Hat
