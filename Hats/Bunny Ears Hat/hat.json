@@ -1,0 +1,7 @@
+{
+	"Name": "Bunny Ears Hat",
+	"Description": "A Cute Pair of Bunny Ears!",
+	"PurchasePrice": "1000",
+	"ShowHair": true,
+	"IgnoreHairstyleOffset": true
+}
