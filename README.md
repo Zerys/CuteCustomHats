@@ -2,7 +2,7 @@
 - Adds Cute Custom Hats to Stardew Valley. 
 
 ### [Mod Dependencies] 
-- Uses Json assets
+- Uses Json assets, built on "Version": "1.9.1" but future versions should work. 
 
 # Hat Types: 
 
