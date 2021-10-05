@@ -1,11 +1,11 @@
 ﻿{
    "Name": "CuteCustomHats", 
    "Author": "Zerys",
-   "Version": "1.0.0",
+   "Version": "1.0.1",
    "Description": "Adds Cute Custom Hats to Stardew Valley",
    "UniqueID": "Zerys.CuteCustomHats",
    "ContentPackFor": {
     	"UniqueID": "spacechase0.JsonAssets"
     },
-  "UpdateKeys": [],
+  "UpdateKeys": [ "Nexus:9822" ],
 }
