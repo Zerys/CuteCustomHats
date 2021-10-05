@@ -1,10 +1,27 @@
-# CuteCustomHats
-- Adds Cute Custom Hats to Stardew Valley. 
+### [Mod Title] 
+- CuteCustomHats
+
+### [Mod Author]
+- Zerys
+
+### [Description] 
+- Adds Cute Custom Hats to Stardew Valley.
+
+### [Install]
+- Drag and drop the folder "CuteCustomHats" into your Stardew Valley Mods folder. 
+- You must have SMAPI installed https://smapi.io/ 
+- You must have a version of JSON Assets installed for this mod to work.
+
 
 ### [Mod Dependencies] 
 - Uses Json assets, built on "Version": "1.9.1" but future versions should work. 
 
-# Hat Types: 
+### [Hat Prices]
+- All hats are priced at 1000G per hat and can be brought from Hat Mouse.
+- The only hats that aren't 1000G are the Crown Hats and they are priced at 99999G.
+- This can be changed in the Hat.json of the two folders (Crowns) if you aren't happy with that or any of the prices.
+
+# Hat Included: 
 
 ## [Animal Ears]
 - Dog Ears Hat
